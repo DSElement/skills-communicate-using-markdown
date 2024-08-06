@@ -11,3 +11,9 @@ int main()
   return 0;
 }
 ```
+
+- [x] added headers
+- [x] added an image
+- [x] added a code example
+- [x] added a task list
+- [ ] took control of the whole world
